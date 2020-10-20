@@ -89,7 +89,7 @@ npm install eslint-plugin-sonarjs -g         # or install globally
 }
 ```
 
-* Add `plugin:sonarjs/recommended` to the `extends` option to enable all recommended rules:
+* Add `plugin:sonarjs/recommended` to the `extends` option to enable all available rules:
 
 ```json
 {
